@@ -2,7 +2,7 @@
 
 
 ### 💫 About Me:
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&letterSpacing=1em&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1350&height=100&lines=Web+Developer;Software+Developer;Javascript+Developer;Java+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=43&letterSpacing=0.8em&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1300&height=100&lines=Web++Developer;Software+Developer;Javascript+Developer;Java+Developer;Front-end+Developer;Full-stack+Developer" alt="Typing SVG" /></a>
 
 <br>I'm a passionate web developer who loves turning ideas into code. With a background in Computer Science Engineering and experience in web development, <br>I enjoy building everything from small business sites to rich interactive web apps.<br><br>- 🌟  **Languages & Tools:** Skilled in HTML, CSS, JavaScript, Java, PHP and MySQL<br>- 🚀 Enthusiastic about learning new technologies and solving challenging problems<br>- 💡  **Currently Exploring:** Currently exploring advanced Java frameworks and JavaScript frameworks<br>- 🤝 I’m looking for help with any job recommendations<br>- 🌱 I’m currently learning Hibernate and Spring Boot<br>- 💬 Reach me if you have any queries<br>- 💼 **Experience:** Trainee in the Quality Department at Steel Strips Wheels Private Limited, specializing in EV line quality management<br>- 💡 **Interests:** Website development, Solving real world problems and creating engaging user experiences<br><br>I’m always excited to learn new things and take on challenging projects.<br><br>Let's build something amazing together! 🌐
 
